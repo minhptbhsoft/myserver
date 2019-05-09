@@ -1,5 +1,6 @@
 {
   "post" : [
-  { "name": "Minh", "comment": "test"}
+  { "name": "Minh", "comment": "test"}, 
+    {"name": "Thủy", "comment": "test2"}
   ]
 }
