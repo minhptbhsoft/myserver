@@ -1,6 +1,30 @@
 {
-  "post" : [
-  { "name": "Minh", "comment": "test"}, 
-    {"name": "Thủy", "comment": "test2"}
+  "comments": [
+    {
+      "id": 2,
+      "name": "Thủy",
+      "content": "Test2"
+    },
+    {
+      "id": 3,
+      "name": "Minh Thủy",
+      "content": "Test3"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Thủy",
+      "email": "Test2",
+      "phone": "123",
+      "description": "like"
+    },
+    {
+      "id": 3,
+      "name": "Minh Thủy",
+      "email": "Test3",
+      "phone": "123",
+      "description": "like"
+    }
   ]
 }
